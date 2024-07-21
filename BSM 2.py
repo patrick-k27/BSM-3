@@ -69,6 +69,6 @@ st.pyplot(plt)
 
 # Attribution text
 st.markdown("---")  # Adds a horizontal line for separation
-st.markdown("Made by [Patrick Kucharski](https://github.com/your-github-profile)")
+st.markdown("Made by [Patrick Kucharski]
 
 # Replace the link with your actual GitHub profile or personal website
